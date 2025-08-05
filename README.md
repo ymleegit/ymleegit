@@ -8,7 +8,7 @@
 
 ### 🛠️ Tools & Technologies
 
-![Tech Stack](https://skillicons.dev/icons?i=python,cpp,linux,bash,git,latex,vscode,github)
+![Tech Stack](https://skillicons.dev/icons?i=python,c,cpp,linux,bash,git,latex,vscode,github)
 
 ---
 
@@ -20,17 +20,9 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide=prs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide=html,css)
-
----
-
 ### 🔗 Links
 
-- 📝 [Blog / Portfolio]([https://velog.io/@ymleegit/posts])
+- 📝 [Blog / Portfolio](https://velog.io/@ymleegit/posts)
   
 ---
 
