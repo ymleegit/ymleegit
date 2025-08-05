@@ -22,7 +22,7 @@
 
 ### 🔗 Links
 
-- 📝 [Blog / Portfolio](https://velog.io/@ymleegit/posts)
+- 📝 [velog](https://velog.io/@ymleegit/posts)
   
 ---
 
